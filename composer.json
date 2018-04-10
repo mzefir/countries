@@ -1,0 +1,13 @@
+{
+    "name": "mzefir/countries",
+    "description": "Text databases with countries with code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Łukasz Wołczak",
+            "email": "lwolczak@coderweb.pl"
+        }
+    ],
+    "require": {},
+    "version": "0.0.1"
+}
